@@ -2716,11 +2716,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\elmal\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\brahy\\.nuget\\packages\\": {}
+>>>>>>> aa6b74ce3b11170af3c577f603222dde74683a50
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\elmal\\OneDrive\\Escritorio\\mangaApi\\MangaApi\\MangaApi.csproj",
       "projectName": "MangaApi",
       "projectPath": "C:\\Users\\elmal\\OneDrive\\Escritorio\\mangaApi\\MangaApi\\MangaApi.csproj",
@@ -2729,6 +2734,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elmal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\brahy\\mangaApi\\MangaApi\\MangaApi.csproj",
+      "projectName": "MangaApi",
+      "projectPath": "C:\\Users\\brahy\\mangaApi\\MangaApi\\MangaApi.csproj",
+      "packagesPath": "C:\\Users\\brahy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brahy\\mangaApi\\MangaApi\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\brahy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> aa6b74ce3b11170af3c577f603222dde74683a50
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2736,6 +2751,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2804,7 +2820,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+>>>>>>> aa6b74ce3b11170af3c577f603222dde74683a50
       }
     }
   }
